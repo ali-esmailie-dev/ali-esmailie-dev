@@ -1,5 +1,5 @@
 - 👋 Hi there
-- 😄 I’m ali
+- 😄 I’m Ali
 - 🌱 I’m currently learning bancked with Dart
 - 💞️ I’m looking to collaborate on Flutter projects
 - 😄 Pronouns: he/him
