@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning bancked with Dart
 - 💞️ I’m looking to collaborate on Flutter projects
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love my motorcycles
+- ⚡ Fun fact: I love my motorcycle
 
 ###
 
